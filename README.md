@@ -30,5 +30,8 @@ lcd.print("Hello, NodeMCU");
 
 void loop() { // do nothing here }
 
+![image](https://github.com/dennisngugiwambui/Connecting-nodeMcu-to-temperature-sensor-LCD-screen-and-blynk-application/assets/112067611/7068e72b-c78d-476c-b1f9-6b6d5c70d882)
+
+
 
 
