@@ -35,7 +35,7 @@ void loop() { // do nothing here }
 LCD library
 
 
-2. LiquidCrystal_I2C library - https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+2. LiquidCrystal_I2C library - ```https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library```
 
 
 
